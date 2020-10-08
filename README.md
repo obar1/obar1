@@ -3,5 +3,5 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [data is the new oil](https://dev.to/obar1/data-is-the-new-oil-4ebb)
 <!-- BLOG-POST-LIST:END -->
