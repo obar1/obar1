@@ -15,3 +15,7 @@
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=obar1&show_icons=true&count_private=true" />
 </picture>
+
+
+> profile views 
+![](https://komarev.com/ghpvc/?username=obar1&style=for-the-badge)
