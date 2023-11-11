@@ -2,6 +2,8 @@
 
 * I ⌨️ as Data engineer `4 fun/work`
 
+:tada: https://www.credential.net/profile/obar1/wallet :rocket:
+
 <img src='https://github.com/obar1/obar1/assets/387386/08fe8134-f3ff-41f1-9fdb-bf26f33c3785' style="width:128px;margin-left: auto; margin-right: 0;"/>  
 
 [cloudskillsboost.google/public_profiles/](https://www.cloudskillsboost.google/public_profiles/0e4d9285-4960-419a-bfb3-1ed19850308c) :8ball:
