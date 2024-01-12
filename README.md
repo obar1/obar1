@@ -12,7 +12,7 @@
 
 ## I ⌨️ on <img src='./gh.gif' style='width:3em; display: block;'/> `4 fun/training`
 
-
+> Glad if you'll find some repos interesting/useful for you ...
 
 <img src='https://github-readme-stats.vercel.app/api?username=obar1&show_icons=true&count_private=true'/>
 
