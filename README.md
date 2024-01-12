@@ -1,4 +1,4 @@
-# 👋 I'm Mario - `Obar0|\|3` 🇮🇹GDAÑSK🇵🇱
+# 👋 I'm Mario - `Obar0|\|3`
 
 ## I ⌨️ as Data engineer `4 fun/work`
 
