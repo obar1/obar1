@@ -7,8 +7,6 @@
 | <img src='https://github.com/obar1/obar1/assets/387386/08fe8134-f3ff-41f1-9fdb-bf26f33c3785' style='width:7em;  display: block;'/> | [cloudskillsboost.google/public_profiles/](https://www.cloudskillsboost.google/public_profiles/0e4d9285-4960-419a-bfb3-1ed19850308c) |
 | <img src='https://github.com/obar1/obar1/assets/387386/ef90a819-b4b1-4e54-a6cd-a87f6b5aa620' style='width:7em;  display: block;'/>  | [learn.microsoft.com/training/](https://learn.microsoft.com/en-us/users/obar1/training) :pause_button: | 
 
-## Certifications
-* https://www.credential.net/profile/obar1/wallet :tada:
 
 ## I ⌨️ on <img src='./gh.gif' style='width:3em; display: block;'/> `4 fun/training`
 
@@ -23,4 +21,14 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=387386)
 
+## HR corner
 
+### Certifications
+* https://www.credential.net/profile/obar1/wallet :tada:
+
+### Get in touch
+
+
+[Latest CV mail request](mailto:obar1+hire@pm.me?subject=Re:%20CV&body=Dear%20Mario,%0A%0AShare%20your%20LATEST_CV%20please.)
+
+[15 min Phone call request](mailto:obar1+hire@pm.me?subject=Re:%20PHONE_CALL&body=Dear%20Mario,%0A%0AShare%20your%20MOBILE%20please.)
