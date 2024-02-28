@@ -21,14 +21,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=387386)
 
-## HR corner
+## Talent Acquisition corner
 
-### Certifications
-* https://www.credential.net/profile/obar1/wallet :tada:
+[Certifications](https://www.credential.net/profile/obar1/wallet) :tada:
 
-### Get in touch
-
-
-[Latest CV request](mailto:obar1+hire@pm.me?subject=Re:%20CV&body=Dear%20Mario,%0A%0AShare%20your%20LATEST_CV%20please.)
-
-[15 min PHONE CALL request](mailto:obar1+hire@pm.me?subject=Re:%20PHONE_CALL&body=Dear%20Mario,%0A%0AShare%20your%20MOBILE%20please.)
+[RE: Latest CV](mailto:obar1+hire@pm.me?subject=Re:%20CV&body=Dear%20Mario,%0A%0AShare%20your%20LATEST_CV%20please.) :page_facing_up:
