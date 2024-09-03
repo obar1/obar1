@@ -4,8 +4,9 @@
 
 | Cloud | Profiles |
 | -------- | -------- |
-| <img src='https://github.com/obar1/obar1/assets/387386/08fe8134-f3ff-41f1-9fdb-bf26f33c3785' style='width:7em;  display: block;'/> | [cloudskillsboost.google/public_profiles/](https://www.cloudskillsboost.google/public_profiles/0e4d9285-4960-419a-bfb3-1ed19850308c) |
-| <img src='https://github.com/obar1/obar1/assets/387386/ef90a819-b4b1-4e54-a6cd-a87f6b5aa620' style='width:7em;  display: block;'/>  | [learn.microsoft.com/training/](https://learn.microsoft.com/en-us/users/obar1/training)  | 
+| <img src='https://github.com/obar1/obar1/assets/387386/08fe8134-f3ff-41f1-9fdb-bf26f33c3785' style='width:7em;  display: block;'/> | [professional data engineer](https://www.credly.com/badges/9c26aa48-f8c7-4d1a-8034-cbf2fdeece57/public_url) |
+| <img src='https://github.com/obar1/obar1/assets/387386/08fe8134-f3ff-41f1-9fdb-bf26f33c3785' style='width:7em;  display: block;'/> | [cloudskillsboost.google.com](https://www.cloudskillsboost.google/public_profiles/0e4d9285-4960-419a-bfb3-1ed19850308c) |
+| <img src='https://github.com/obar1/obar1/assets/387386/ef90a819-b4b1-4e54-a6cd-a87f6b5aa620' style='width:7em;  display: block;'/>  | [learn.microsoft.com](https://learn.microsoft.com/en-us/users/obar1/training)  | 
 
 
 ## I ⌨️ on <img src='./gh.gif' style='width:3em; display: block;'/> `4 fun/training`
